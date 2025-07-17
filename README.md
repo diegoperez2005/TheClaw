@@ -6,7 +6,7 @@
 
 ## 🔍 Project Overview
 
-**The Claw** is a real-time, touchless robotic arm control system. It uses **OpenCV** and **MediaPipe** to track hand gestures and translate them into precise movements of a robotic hand designed in **SolidWorks**.
+**The Claw** is a real-time, touchless robotic arm control system. It uses **OpenCV** and **MediaPipe** to track hand gestures and translate them into precise movements of a robotic hand designed in **SolidWorks**. Additionally some of the goals of this project are too incorporate the software into a different project like a Robotic Dog, VTOL aircraft, or FPV Drone!
 
 ---
 
