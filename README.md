@@ -14,6 +14,7 @@
 - 🎯 **OpenCV** – Computer vision for real-time hand tracking  
 - ✋ **MediaPipe** – High-fidelity gesture recognition  
 - 🛠️ **SolidWorks** – CAD design and simulation of the robotic hand
+- Future: (Ardunio, Microcontrollers, avionics)
 
 ---
 
